@@ -10,6 +10,12 @@
 * Make sure BrowserRouter wraps everything
 * Make sure you use the component prop, not render.
 
+### Create these components. The content of the components is not important, just put anything `<div> whatever </div>`
+* Charts.js
+* Tables.js
+* Settings.js
+* Wall.js
+
 ### Routes
 * /              -> Dashboard
 * /charts        -> Charts
@@ -19,12 +25,6 @@
 * /profiles      -> Profiles
 * /marquee/:text -> Marquee
 * /profile/:id   -> Profile
-
-### Create these components. The content of the components is not important, just put anything `<div> whatever </div>`
-* Charts.js
-* Tables.js
-* Settings.js
-* Wall.js
 
 ### Existing components
 * Profiles.js
